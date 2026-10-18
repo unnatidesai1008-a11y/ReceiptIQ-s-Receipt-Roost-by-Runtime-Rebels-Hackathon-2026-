@@ -1,0 +1,2 @@
+# ReceiptIQ-s-Receipt-Roost-by-Runtime-Rebels-Hackathon-2026-
+ReceiptIQ's Receipt Roost automates expense management by extracting receipt details, categorizing claims, checking calculations and company policies, and detecting duplicates or suspicious expenses. It tracks monthly spending limits, flags non-compliant claims, and speeds up accurate, transparent reimbursements while reducing manual work.
